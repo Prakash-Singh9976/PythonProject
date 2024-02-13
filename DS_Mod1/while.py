@@ -6,7 +6,7 @@ while(count<5):
 print("Good bye!")
 
 #Example
-rank=5
+rank=1
 while(rank!=12):
     print("Rank is ",rank)
     rank+=1

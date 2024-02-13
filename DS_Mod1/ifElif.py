@@ -1,5 +1,5 @@
-X=10
-Y=12
+X=16
+Y=16
 
 if(X<Y):
     print('X is less than Y')
